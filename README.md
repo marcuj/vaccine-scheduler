@@ -1,6 +1,6 @@
 ## Vaccine Appointment Scheduler
 
-Simple vaccine scheduler using pymssql with user login functions.
+Simple vaccine scheduler using pymssql.
 
 ![image info](src/main/resources/terminal.png)
 
